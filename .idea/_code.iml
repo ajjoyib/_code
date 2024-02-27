@@ -14,6 +14,7 @@
     <option name="TEMPLATE_FOLDERS">
       <list>
         <option value="$MODULE_DIR$/100daysofpython/D55 - HTML &amp; URL Parsing in Flask and the Higher Lower Game/templates" />
+        <option value="$MODULE_DIR$/100daysofpython/D62 - Flask, WTForms, Bootstrap and CSV - Coffee &amp; Wifi Project/templates" />
       </list>
     </option>
   </component>
